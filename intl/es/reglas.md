@@ -6,7 +6,7 @@
 
 #### Fecha de inicio
 
-25 de junio de 2016. [ponga su nombre aquí]
+28 de enero de 2021. Julio Mena
 
 ## Reglas adicionales
 
