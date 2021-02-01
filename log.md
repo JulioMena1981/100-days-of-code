@@ -28,3 +28,13 @@
 
 **Link to work:** [Survey Form](https://github.com/JulioMena1981/Web-Design-Projects/tree/main/survey_form)
 
+
+### Day 4: January 31, 2021
+
+**Today's Progress**: Starting own project, a page of a tattoo studio.
+
+**Thoughts:** Today I created the navigation bar and I have been struggling with CSS because the sticky position of the navigation bar does not work for me.
+
+**Link to work:** [Tattoos](https://github.com/JulioMena1981/Proyectos-de-Practica-HTML-CSS-JS/tree/main/Tattoos)
+
+
