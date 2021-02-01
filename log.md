@@ -29,6 +29,7 @@
 **Link to work:** [Survey Form](https://github.com/JulioMena1981/Web-Design-Projects/tree/main/survey_form)
 
 
+
 ### Day 4: January 31, 2021
 
 **Today's Progress**: Starting own project, a page of a tattoo studio.
@@ -37,4 +38,13 @@
 
 **Link to work:** [Tattoos](https://github.com/JulioMena1981/Proyectos-de-Practica-HTML-CSS-JS/tree/main/Tattoos)
 
+
+
+### Day 5: February 01, 2021
+
+**Today's Progress**: Continue own project, a page of a tattoo studio.
+
+**Thoughts:** Today I have continued adding HTML items and CSS attributes to my page from a tattoo studio. I fought another time with the CSS because things did not work out, today was a day that I got stuck, but in the end I got what I wanted. 
+
+**Link to work:** [Tattoos](https://github.com/JulioMena1981/Proyectos-de-Practica-HTML-CSS-JS/tree/main/Tattoos)
 
