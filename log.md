@@ -48,3 +48,12 @@
 
 **Link to work:** [Tattoos](https://github.com/JulioMena1981/Proyectos-de-Practica-HTML-CSS-JS/tree/main/Tattoos)
 
+
+
+### Day 6: February 02, 2021
+
+**Today's Progress**: Learning FlexBox
+
+**Thoughts:** Today I have been learning and practicing FlexBox, I am amazed at how powerful it is.  
+
+**Link to work:** [Practicing FlexBox](https://codepen.io/juliomena1981/pen/rNWVRGZ?editors=1100)
