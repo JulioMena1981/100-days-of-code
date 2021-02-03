@@ -57,3 +57,14 @@
 **Thoughts:** Today I have been learning and practicing FlexBox, I am amazed at how powerful it is.  
 
 **Link to work:** [Practicing FlexBox](https://codepen.io/juliomena1981/pen/rNWVRGZ?editors=1100)
+
+
+
+### Day 7: February 03, 2021
+
+**Today's Progress**: Starting challenge freecodecamp Product Landing Page
+
+**Thoughts:** I still don't have much practice and I am having an adventure positioning the elements with FlexBox and CSS Grid, but I look better with HTML and basic CSS.  
+
+**Link to work:** [Product Landing Page](https://codepen.io/juliomena1981/pen/oNYjqGO?editors=1100)
+
