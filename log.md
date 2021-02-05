@@ -68,3 +68,13 @@
 
 **Link to work:** [Product Landing Page](https://codepen.io/juliomena1981/pen/oNYjqGO?editors=1100)
 
+
+
+### Day 8: February 05, 2021
+
+**Today's Progress**: Rewrite HTML and CSS of the Product Landing Page.
+
+**Thoughts:** Today I have rewritten the HTM and part of the CSS of the freecodecamp challenge, I got stuck in the form input the email field and with the CSS properties. 
+
+**Link to work:** [Product Landing Page](https://github.com/JulioMena1981/Web-Design-Projects/tree/main/Landing%20Page%20Product)
+
