@@ -78,3 +78,12 @@
 
 **Link to work:** [Product Landing Page](https://github.com/JulioMena1981/Web-Design-Projects/tree/main/Landing%20Page%20Product)
 
+
+
+### Day 9: February 06, 2021
+
+**Today's Progress**: Continuing with the form challenge and learning CSS Grid.
+
+**Thoughts:** Today I started with CSS Grid trying to align the features correctly, it seems that it is more difficult than I thought.
+
+**Link to work:** [Product Landing Page](https://codepen.io/juliomena1981/pen/oNYjqGO?editors=1100)
