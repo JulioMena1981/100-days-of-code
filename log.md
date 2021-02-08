@@ -87,3 +87,13 @@
 **Thoughts:** Today I started with CSS Grid trying to align the features correctly, it seems that it is more difficult than I thought.
 
 **Link to work:** [Product Landing Page](https://codepen.io/juliomena1981/pen/oNYjqGO?editors=1100)
+
+
+
+### Day 10: February 07, 2021
+
+**Today's Progress**: Starting to learn and practice with Gulp.
+
+**Thoughts:** Today I have started to learn and practice Gulp, it has also been a first contact with JS.
+
+**Link to work:** [Learning Gulp](https://github.com/JulioMena1981/Learning-Gulp)
