@@ -97,3 +97,14 @@
 **Thoughts:** Today I have started to learn and practice Gulp, it has also been a first contact with JS.
 
 **Link to work:** [Learning Gulp](https://github.com/JulioMena1981/Learning-Gulp)
+
+
+
+### Day 11: February 08, 2021
+
+**Today's Progress**: Continuing Landing Page Product freecodecamp challenge. 
+
+**Thoughts:** Today I rewrite the HTML to see if I could organize the CSS better, I used FlexBox to align the features and the price table. 
+
+**Link to work:** [Landing Page Product](https://codepen.io/juliomena1981/pen/oNYjqGO?editors=1000)
+
