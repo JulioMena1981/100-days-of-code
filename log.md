@@ -108,3 +108,14 @@
 
 **Link to work:** [Landing Page Product](https://codepen.io/juliomena1981/pen/oNYjqGO?editors=1000)
 
+
+
+### Day 12: February 10, 2021
+
+**Today's Progress**: Starting HTML and CSS practice projects in Frontend Mentor.  
+
+**Thoughts:** Today I started another practice project, I have been aligning elements and I am more fluent in CSS.  
+
+**Link to work:** [Profile card project](https://github.com/JulioMena1981/JulioMena1981-FrontEnd-Mentor-Projects/tree/main/profile-card-component-main)
+
+
