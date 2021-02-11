@@ -119,3 +119,14 @@
 **Link to work:** [Profile card project](https://github.com/JulioMena1981/JulioMena1981-FrontEnd-Mentor-Projects/tree/main/profile-card-component-main)
 
 
+
+### Day 13: February 11, 2021
+
+**Today's Progress**: Finished first Frontend Mentor project.   
+
+**Thoughts:** Today I finished the first Frontend Mentor project. I have worked with media querys, which I have not done yet.   
+
+**Link to work:** [Profile card project](https://github.com/JulioMena1981/JulioMena1981-FrontEnd-Mentor-Projects/tree/main/profile-card-component-main)
+                  [Profile card project](https://profile-card-liart-ten.vercel.app/)
+
+
