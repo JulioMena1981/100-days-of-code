@@ -128,5 +128,15 @@
 
 **Link to work:** [Profile card project](https://github.com/JulioMena1981/JulioMena1981-FrontEnd-Mentor-Projects/tree/main/profile-card-component-main)
                   [Profile card project](https://profile-card-liart-ten.vercel.app/)
+                  
+                  
 
+
+### Day 14: February 12, 2021
+
+**Today's Progress**: Starting project Social proof section.    
+
+**Thoughts:** Today I have written the HTML and been struggling with the CSS to insert and position the patterns in the background.    
+
+**Link to work:** [Social proof section](https://github.com/JulioMena1981/JulioMena1981-FrontEnd-Mentor-Projects/tree/main/social-proof-section-master)
 
