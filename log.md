@@ -140,3 +140,14 @@
 
 **Link to work:** [Social proof section](https://github.com/JulioMena1981/JulioMena1981-FrontEnd-Mentor-Projects/tree/main/social-proof-section-master)
 
+
+
+
+### Day 15: February 13, 2021
+
+**Today's Progress**: Installing and creating gulpfile.js to automatically add prefixes for browser compatibility and writing css to position design elements with CSS Grid and FlexBox.     
+
+**Thoughts:** Today I have been creating gulpfile.js to automatically add prefixes for browser compatibility and writing css to position the design elements with CSS Grid and FlexBox, I have not yet managed to position them and I am missing the media queries.     
+
+**Link to work:** [Social proof section (CSS)](https://github.com/JulioMena1981/JulioMena1981-FrontEnd-Mentor-Projects/blob/main/social-proof-section-master/css/style.css)
+
