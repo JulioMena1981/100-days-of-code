@@ -151,3 +151,14 @@
 
 **Link to work:** [Social proof section (CSS)](https://github.com/JulioMena1981/JulioMena1981-FrontEnd-Mentor-Projects/blob/main/social-proof-section-master/css/style.css)
 
+
+
+
+### Day 16: February 14, 2021
+
+**Today's Progress**: Aligning elements and trying to place the stars in 1440 pixels resolution. 
+
+**Thoughts:** Today I have been aligning elements in resolution 1440 pixels and trying to place the punctuation stars in their place, I have not succeeded at the moment.     
+
+**Link to work:** [Social proof section (CSS)](https://github.com/JulioMena1981/JulioMena1981-FrontEnd-Mentor-Projects/blob/main/social-proof-section-master/css/style.css)
+
