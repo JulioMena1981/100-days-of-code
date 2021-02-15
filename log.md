@@ -162,3 +162,14 @@
 
 **Link to work:** [Social proof section (CSS)](https://github.com/JulioMena1981/JulioMena1981-FrontEnd-Mentor-Projects/blob/main/social-proof-section-master/css/style.css)
 
+
+
+
+### Day 17: February 15, 2021
+
+**Today's Progress**: Placing and aligning the stars of the scores in the resolution of 1440 pixels.  
+
+**Thoughts:** Today I have been placing and aligning the stars of the scores in the resolution of 1440 pixels. Also adjusting other elements.      
+
+**Link to work:** [Social proof section (CSS)](https://github.com/JulioMena1981/JulioMena1981-FrontEnd-Mentor-Projects/blob/main/social-proof-section-master/css/style.css)
+
