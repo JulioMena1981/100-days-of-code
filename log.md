@@ -173,3 +173,14 @@
 
 **Link to work:** [Social proof section (CSS)](https://github.com/JulioMena1981/JulioMena1981-FrontEnd-Mentor-Projects/blob/main/social-proof-section-master/css/style.css)
 
+
+
+
+### Day 18: February 16, 2021
+
+**Today's Progress**: Starting basic Javascript in freecodecamp.  
+
+**Thoughts:** Today I started the freecodecamp Basic Javascript course.      
+
+**Link to work:** [Basic Javascript course](https://www.freecodecamp.org/fcca19af591-c25f-4af4-a05a-7c56210906d8)
+                  [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/dajedfdgsa?start=2021-02-10&end=2021-02-16)
