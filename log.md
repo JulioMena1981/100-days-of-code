@@ -204,7 +204,7 @@
 
 **Today's Progress**: Finalizing resolution 1440 and higher in the Social Proof Section project.  
 
-**Thoughts:** I have to learn Bootstrap to save me the average query hahaha      
+**Thoughts:** I have to learn Bootstrap to save me the average querie hahaha      
 
 **Link to work:** [social proof section(web)](https://social-proof-section-master-zeta-pied.vercel.app/)
                   [social proof section(code)](https://github.com/JulioMena1981/JulioMena1981-FrontEnd-Mentor-Projects/tree/main/social-proof-section-master)
