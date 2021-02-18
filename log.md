@@ -196,3 +196,16 @@
 
 **Link to work:** [visual design applied in css](https://www.freecodecamp.org/fcca19af591-c25f-4af4-a05a-7c56210906d8)
                   [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/dajedfdgsa?start=2021-02-17&end=2021-02-17)
+                  
+                  
+                  
+ 
+ ### Day 20: February 18, 2021
+
+**Today's Progress**: Finalizing resolution 1440 and higher in the Social Proof Section project.  
+
+**Thoughts:** I have to learn Bootstrap to save me the average query hahaha      
+
+**Link to work:** [social proof section(web)](https://social-proof-section-master-zeta-pied.vercel.app/)
+                  [social proof section(code)](https://github.com/JulioMena1981/JulioMena1981-FrontEnd-Mentor-Projects/tree/main/social-proof-section-master)
+                  [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/rvphtohfnr?start=2021-02-12&end=2021-02-18)
