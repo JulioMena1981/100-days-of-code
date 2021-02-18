@@ -194,5 +194,5 @@
 
 **Thoughts:** Today I have been reviewing visual design applied in css at the freecodecamp academy.      
 
-**Link to work:** [Basic Javascript course](https://www.freecodecamp.org/fcca19af591-c25f-4af4-a05a-7c56210906d8)
+**Link to work:** [visual design applied in css](https://www.freecodecamp.org/fcca19af591-c25f-4af4-a05a-7c56210906d8)
                   [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/dajedfdgsa?start=2021-02-17&end=2021-02-17)
