@@ -209,3 +209,14 @@
 **Link to work:** [social proof section(web)](https://social-proof-section-master-zeta-pied.vercel.app/)
                   [social proof section(code)](https://github.com/JulioMena1981/JulioMena1981-FrontEnd-Mentor-Projects/tree/main/social-proof-section-master)
                   [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/rvphtohfnr?start=2021-02-12&end=2021-02-18)
+                  
+
+
+### Day 21: February 19, 2021
+
+**Today's Progress**: I keep learning basic JavaScript in freecodecamp.
+
+**Thoughts:** Today I have continued learning basic JavaScript in freecodecamp      
+
+**Link to work:** [Basic JavaScript](https://www.freecodecamp.org/fcca19af591-c25f-4af4-a05a-7c56210906d8)
+                  [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/rvphtohfnr?start=2021-02-19&end=2021-02-19)
