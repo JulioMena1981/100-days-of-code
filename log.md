@@ -220,3 +220,15 @@
 
 **Link to work:** [Basic JavaScript](https://www.freecodecamp.org/fcca19af591-c25f-4af4-a05a-7c56210906d8)
                   [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/rvphtohfnr?start=2021-02-19&end=2021-02-19)
+                  
+ 
+ 
+
+### Day 22: February 20, 2021
+
+**Today's Progress**: Trying to create a Python script.
+
+**Thoughts:** Today I am trying to create a Python script to automate git tasks, it is not working yet, but I will succeed.       
+
+**Link to work:** [App Git](https://github.com/JulioMena1981/Scripts-utiles-Python/blob/main/app_git.py)
+                  [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/hpetaibnfb?start=2021-02-20&end=2021-02-20)
