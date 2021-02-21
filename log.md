@@ -232,3 +232,15 @@
 
 **Link to work:** [App Git](https://github.com/JulioMena1981/Scripts-utiles-Python/blob/main/app_git.py)
                   [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/hpetaibnfb?start=2021-02-20&end=2021-02-20)
+
+
+
+
+### Day 23: February 21, 2021
+
+**Today's Progress**: I keep writing Python program to do git tasks.
+
+**Thoughts:** Today I have been writing functions for the program, based on trial error is how you learn.       
+
+**Link to work:** [App Git](https://github.com/JulioMena1981/Scripts-utiles-Python/tree/main/automation_git)
+                  [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/oohihbxoyy?start=2021-02-21&end=2021-02-21)
