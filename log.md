@@ -244,3 +244,15 @@
 
 **Link to work:** [App Git](https://github.com/JulioMena1981/Scripts-utiles-Python/tree/main/automation_git)
                   [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/oohihbxoyy?start=2021-02-21&end=2021-02-21)
+
+
+
+
+### Day 24: February 22, 2021
+
+**Today's Progress**: Writing Script to optimize images for WordPress. 
+
+**Thoughts:** Today I am writing a Python Script that batch optimizes images for WordPress, in addition to other tasks.       
+
+**Link to work:** [Convert Images](https://github.com/JulioMena1981/Scripts-utiles-Python/tree/main/convert_images)
+                  [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/swzqqrxxbt?start=2021-02-22&end=2021-02-22)
