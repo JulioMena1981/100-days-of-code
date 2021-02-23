@@ -256,3 +256,15 @@
 
 **Link to work:** [Convert Images](https://github.com/JulioMena1981/Scripts-utiles-Python/tree/main/convert_images)
                   [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/swzqqrxxbt?start=2021-02-22&end=2021-02-22)
+ 
+ 
+
+
+### Day 25: February 23, 2021
+
+**Today's Progress**: Implemented function rotate images . 
+
+**Thoughts:** Today I was implementing a function to crop images, almost an hour trying and in the end I decided to remove it due to the complexity of use, but I have implemented the function to rotate images.        
+
+**Link to work:** [Convert Images](https://github.com/JulioMena1981/Scripts-utiles-Python/tree/main/convert_images)
+                  [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/swzqqrxxbt?start=2021-02-23&end=2021-02-23)
