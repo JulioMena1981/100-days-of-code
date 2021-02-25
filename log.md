@@ -268,3 +268,16 @@
 
 **Link to work:** [Convert Images](https://github.com/JulioMena1981/Scripts-utiles-Python/tree/main/convert_images)
                   [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/swzqqrxxbt?start=2021-02-23&end=2021-02-23)
+
+
+
+
+### Day 26: February 25, 2021
+
+**Today's Progress**: Creating script to manage dotfiles in Linux.  
+
+**Thoughts:** Today I am creating script to manage dotfiles on Linux.         
+
+**Link to work:** 
+                  [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/koeexbztzd?start=2021-02-25&end=2021-02-25)
+                  [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/oohihbxoyy?start=2021-02-25&end=2021-02-25)
