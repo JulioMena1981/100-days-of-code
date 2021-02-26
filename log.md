@@ -281,3 +281,15 @@
 **Link to work:** [Script Dotfiles](https://github.com/JulioMena1981/Scripts-utiles-Python/tree/main/dotfiles)
                   [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/koeexbztzd?start=2021-02-25&end=2021-02-25)
                   [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/oohihbxoyy?start=2021-02-25&end=2021-02-25)
+
+
+
+### Day 27: February 26, 2021
+
+**Today's Progress**: Learning Web Scraper with Python.  
+
+**Thoughts:** Today I have been trying to learn to do a Web Scraping with Python.         
+
+**Link to work:** [Script Dotfiles](https://github.com/JulioMena1981/Scripts-utiles-Python/blob/main/web_scraper/scraper.py)
+                  [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/swzqqrxxbt?start=2021-02-26&end=2021-02-26)
+                  
