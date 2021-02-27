@@ -293,3 +293,16 @@
 **Link to work:** [Script Dotfiles](https://github.com/JulioMena1981/Scripts-utiles-Python/blob/main/web_scraper/scraper.py)
                   [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/swzqqrxxbt?start=2021-02-26&end=2021-02-26)
                   
+
+
+
+
+
+### Day 28: February 27, 2021
+
+**Today's Progress**: Reviewing Applied Accessibility, Responsive Web Design Principles and FlexBox in FreecodeCamp.  
+
+**Thoughts:** Today I have been reviewing, there are concepts that have not yet been clear to me.         
+
+**Link to work:** [Script Dotfiles](https://www.freecodecamp.org/fcca19af591-c25f-4af4-a05a-7c56210906d8)
+                  [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/hgaoycijre?start=2021-02-27&end=2021-02-27)
