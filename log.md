@@ -306,3 +306,16 @@
 
 **Link to work:** [Script Dotfiles](https://www.freecodecamp.org/fcca19af591-c25f-4af4-a05a-7c56210906d8)
                   [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/hgaoycijre?start=2021-02-27&end=2021-02-27)
+
+
+
+
+
+### Day 29: March 01, 2021
+
+**Today's Progress**: Continuing with the Basic JavaScript course at freecodecamp. 
+
+**Thoughts:** Today I have continued with the basic JavaScript course at freecodecamp. There are concepts that I do not understand yet, I will have to start the course again.        
+
+**Link to work:** [Basic JavaScript](https://www.freecodecamp.org/fcca19af591-c25f-4af4-a05a-7c56210906d8)
+                  [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/hgaoycijre?start=2021-03-01&end=2021-03-01)
