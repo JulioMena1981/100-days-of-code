@@ -319,3 +319,15 @@
 
 **Link to work:** [Basic JavaScript](https://www.freecodecamp.org/fcca19af591-c25f-4af4-a05a-7c56210906d8)
                   [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/hgaoycijre?start=2021-03-01&end=2021-03-01)
+
+
+
+
+### Day 30: March 03, 2021
+
+**Today's Progress**: Starting to practice with JavaScript. 
+
+**Thoughts:** Today I started practicing with JavaScript and my life has become very complicated, I wanted to create a clock and display it on the screen, but it cannot print any results.       
+
+**Link to work:** [Clock JavaScript](https://github.com/JulioMena1981/Proyectos-de-Practica-HTML-CSS-JS/tree/main/Clock)
+                  [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/wprqehhwqu?start=2021-03-03&end=2021-03-03)
