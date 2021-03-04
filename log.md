@@ -331,3 +331,16 @@
 
 **Link to work:** [Clock JavaScript](https://github.com/JulioMena1981/Proyectos-de-Practica-HTML-CSS-JS/tree/main/Clock)
                   [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/wprqehhwqu?start=2021-03-03&end=2021-03-03)
+
+
+
+
+
+### Day 31: March 04, 2021
+
+**Today's Progress**: Continuing with the JavaScript practice.  
+
+**Thoughts:** Today I have continued with the clock JavaScript practice, I have managed to print the clock on the screen and I am continuing to add the date as well.       
+
+**Link to work:** [Clock JavaScript](https://github.com/JulioMena1981/Proyectos-de-Practica-HTML-CSS-JS/tree/main/Clock)
+                  [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/dcrrvgjexw?start=2021-02-26&end=2021-03-04)
