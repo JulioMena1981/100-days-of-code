@@ -344,3 +344,17 @@
 
 **Link to work:** [Clock JavaScript](https://github.com/JulioMena1981/Proyectos-de-Practica-HTML-CSS-JS/tree/main/Clock)
                   [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/dcrrvgjexw?start=2021-02-26&end=2021-03-04)
+
+
+
+
+
+
+### Day 32: March 06, 2021
+
+**Today's Progress**: Refactoring practice web   
+
+**Thoughts:** Today I started to refactor practices that I did a month ago in freecodecamp of HTML and CSS. 
+
+**Link to work:** [Clock JavaScript](https://github.com/JulioMena1981/Refactoring-practice-web-/tree/main/tribute%20page)
+                  [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/fprxuafviq?start=2021-03-06&end=2021-03-06)
