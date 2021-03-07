@@ -356,5 +356,20 @@
 
 **Thoughts:** Today I started to refactor practices that I did a month ago in freecodecamp of HTML and CSS. 
 
-**Link to work:** [Clock JavaScript](https://github.com/JulioMena1981/Refactoring-practice-web-/tree/main/tribute%20page)
+**Link to work:** [Tribute Page Refactor](https://github.com/JulioMena1981/Refactoring-practice-web-/tree/main/tribute%20page)
                   [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/fprxuafviq?start=2021-03-06&end=2021-03-06)
+
+
+
+
+
+### Day 33: March 07, 2021
+
+**Today's Progress**: Refactoring practice web   
+
+**Thoughts:** Today I continued refactoring the HTML and CSS from practices I did a month ago. I have finished the tribute page and started with a social profile page.  
+
+**Link to work:** [Tribute Page Refactor](https://github.com/JulioMena1981/Refactoring-practice-web-/tree/main/tribute%20page)
+                  [Tribute Page](https://refactoring-practice-web.vercel.app/)
+                  [Profile Card](https://github.com/JulioMena1981/Refactoring-practice-web-/tree/main/Profile%20Card)
+                  [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/fprxuafviq?start=2021-03-07&end=2021-03-07)
