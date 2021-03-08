@@ -373,3 +373,15 @@
                   [Tribute Page](https://refactoring-practice-web.vercel.app/)
                   [Profile Card](https://github.com/JulioMena1981/Refactoring-practice-web-/tree/main/Profile%20Card)
                   [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/fprxuafviq?start=2021-03-07&end=2021-03-07)
+
+
+
+
+### Day 34: March 08, 2021
+
+**Today's Progress**: I start JavaScript initiation exercises   
+
+**Thoughts:** Today I have started a series of introductory exercises to Javascript, clicking code is how you learn.   
+
+**Link to work:** [Exercises JavaScript](https://github.com/JulioMena1981/Proyectos-de-Practica-HTML-CSS-JS/tree/main/Ejercicios%20Inciacion%20Javascript)
+                  [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/wprqehhwqu?start=2021-03-08&end=2021-03-08)
