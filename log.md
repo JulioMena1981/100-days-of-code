@@ -385,3 +385,16 @@
 
 **Link to work:** [Exercises JavaScript](https://github.com/JulioMena1981/Proyectos-de-Practica-HTML-CSS-JS/tree/main/Ejercicios%20Inciacion%20Javascript)
                   [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/wprqehhwqu?start=2021-03-08&end=2021-03-08)
+
+
+
+
+
+### Day 35: March 11, 2021
+
+**Today's Progress**: Rewriting CSS from old practices    
+
+**Thoughts:** Today I have continued to rewrite CSS from old practices, to try to improve it, I feel more comfortable writing CSS but I notice that I still need more practice.   
+
+**Link to work:** [Profile Card](https://github.com/JulioMena1981/Refactoring-practice-web-/tree/main/Profile%20Card)
+                  [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/fprxuafviq?start=2021-03-11&end=2021-03-11)
