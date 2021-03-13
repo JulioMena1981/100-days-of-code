@@ -398,3 +398,16 @@
 
 **Link to work:** [Profile Card](https://github.com/JulioMena1981/Refactoring-practice-web-/tree/main/Profile%20Card)
                   [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/fprxuafviq?start=2021-03-11&end=2021-03-11)
+
+
+
+
+
+### Day 36: March 13, 2021
+
+**Today's Progress**: JavaScript practice exercises.   
+
+**Thoughts:** Doing JavaScript practice exercises.  
+
+**Link to work:** [Profile Card](https://github.com/JulioMena1981/Proyectos-de-Practica-HTML-CSS-JS/tree/main/Exercises%20JavaScriptYa)
+                  [Wakatime log](https://wakatime.com/@7619dd10-04a4-408c-9919-cdaeffd24d34/projects/dcrrvgjexw?start=2021-03-13&end=2021-03-13)
